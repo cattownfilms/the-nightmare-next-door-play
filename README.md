@@ -10,8 +10,10 @@ The public build externalizes byte-identical PNG/WAV resources and unchanged com
 
 1. Verify the intended private source commit and its existing production build receipt; preserve localhost and saves.
 2. Prepare a separate audited public package; never copy the checkout or its dist audit directories wholesale. Validate mobile startup and all referenced resources. Record original build hash and sanitized public index hash.
-3. Upload `site.tar.gz` as a new uniquely tagged public release (do not replace an older release). Update `release.json` with the exact URL, archive SHA-256 and source commit. Commit only hosting configuration/receipts.
+3. Upload `site-public.tar.gz` as a new uniquely tagged public release (do not replace an older release). Update `release.json` with the exact URL, archive SHA-256 and source commit. Commit only hosting configuration/receipts.
 4. Dispatch `Publish verified gameplay`. It validates the archive paths, size, contents and every file hash, uploads a Pages artifact, and deploys with only Pages write/OIDC permissions. No private-repository token is used by Actions.
 5. Verify the returned HTTPS page and resources without authentication and run browser startup checks. A successful push alone is not deployment verification.
 
 The public origin has separate browser storage from localhost:8001. Save export/import is optional and manual; publication never clears or migrates local saves automatically. First load downloads substantial artwork; physical-phone acceptance and listening remain manual.
+
+Version 0.18 uses a small first-paint boot shell and ordered hashed runtime scripts, with real script and image-decode readiness. The current release receipt identifies the exact private source revision and public artifact.
