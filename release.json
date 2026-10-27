@@ -1,8 +1,8 @@
 {
   "version": "0.18.0-dev",
-  "sourceCommit": "c0c977bcf898544aa6244b2cd1a4878741653a5e",
-  "sourceBuildSHA256": "ab86530ebc14d0a47d62224c76c163cdb086c8b9e8f244269df2ff5019038a98",
-  "publicIndexSHA256": "9792993332a899419efee1d8c835940b6c61355b90919e6c242fa8070fb1e2e5",
-  "archiveSHA256": "db5d58bb8634153a114d2f4c6a9bf4fa22fc798bbd10db3b6cc6d1ac4d9579e9",
-  "archiveURL": "https://github.com/cattownfilms/the-nightmare-next-door-play/releases/download/v0.18-whammy-results-public-1/site-public.tar.gz"
+  "sourceCommit": "25c06dbe4ef8936416ea96b782f4fe232820df04",
+  "sourceBuildSHA256": "cb1bb7789af0a3a4b6373b468d5b233763f2d34a2b8b29c9c7133154331e031f",
+  "publicIndexSHA256": "0d359ff9bb71742494779d48673ed08fbb031a36646c7fd923d7f3fd325e9a37",
+  "archiveSHA256": "a136ee0b626298e32a5d3d939cb01a5442e37577c3ff2fe27ecb8919c3d39eaf",
+  "archiveURL": "https://github.com/cattownfilms/the-nightmare-next-door-play/releases/download/v0.18-pressure-rescue-public-1/site-public.tar.gz"
 }
