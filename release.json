@@ -1,8 +1,8 @@
 {
   "version": "0.18.0-dev",
-  "sourceCommit": "8dca059ba5e26b0a364b43eb220f111b96417066",
-  "sourceBuildSHA256": "f95c115cecca126b164610b58c258ceb0fbabccf571d7ecb43acb14f1e606323",
-  "publicIndexSHA256": "fac37f0f91d8a53c74057d172400d66cb668b826aaf8520d703572ba38080e36",
-  "archiveSHA256": "3e5f0995a1f512e52481b9edf02863ab27f91eb59c1dc08af27943aa8a4b3b78",
-  "archiveURL": "https://github.com/cattownfilms/the-nightmare-next-door-play/releases/download/v0.18-intro-difficulty-public-20261028-1/site-public.tar.gz"
+  "sourceCommit": "2e3dedea69a91b1929b3b30d566a016fda9fc798",
+  "sourceBuildSHA256": "ae23b6599709f29c9a8ff83c0c4e4f799bda2ed3c36fdfe0e00405c6ded4bc9a",
+  "publicIndexSHA256": "ee551171e06f972227881aaf3a31300f5468e54ff18238e7701f7e0f0a783104",
+  "archiveSHA256": "650cd16276f06675c627c22a3722fafedc6246df6e98b45eacc3a272f42b428c",
+  "archiveURL": "https://github.com/cattownfilms/the-nightmare-next-door-play/releases/download/v0.18-title-menu-public-1/site-public.tar.gz"
 }
