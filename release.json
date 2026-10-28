@@ -1,8 +1,8 @@
 {
   "version": "0.18.0-dev",
-  "sourceCommit": "bc855451c76484c1c03ce397a4127443a97d0943",
-  "sourceBuildSHA256": "efd1ed4290821601559ce2a6332fe53080157560152b108236c062d197aebbe5",
-  "publicIndexSHA256": "72a6c6fd8e05e5467e06e9d5ef67f407c0f8dd4c5aa92b1d345795cfe45d0b22",
-  "archiveSHA256": "07b7e15409d8af636ac0c13087638af9b6483d973d7472c3bb39ffe9518f878f",
-  "archiveURL": "https://github.com/cattownfilms/the-nightmare-next-door-play/releases/download/v0.18-throw-graphics-public-1/site-public.tar.gz"
+  "sourceCommit": "b11d6ec0cc3724138f09ec32ba4d81820a356020",
+  "sourceBuildSHA256": "07fc34dac9de5cce329080ff87c5a2d799c8264f38e5786f2511554c7a3aa430",
+  "publicIndexSHA256": "5abf9e35a3ebdbb0bab6fe1895f96b66cfd22827bf8fc3483a6e9ef8235dedf4",
+  "archiveSHA256": "145d91e1bb3f694740f0dfdae19fba11e7bcfb795de664aa846668bb4f559cee",
+  "archiveURL": "https://github.com/cattownfilms/the-nightmare-next-door-play/releases/download/v0.18-character-intros-public-1/site-public.tar.gz"
 }
