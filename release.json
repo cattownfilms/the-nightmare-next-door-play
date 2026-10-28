@@ -1,8 +1,8 @@
 {
   "version": "0.18.0-dev",
-  "sourceCommit": "b11d6ec0cc3724138f09ec32ba4d81820a356020",
-  "sourceBuildSHA256": "07fc34dac9de5cce329080ff87c5a2d799c8264f38e5786f2511554c7a3aa430",
-  "publicIndexSHA256": "5abf9e35a3ebdbb0bab6fe1895f96b66cfd22827bf8fc3483a6e9ef8235dedf4",
-  "archiveSHA256": "145d91e1bb3f694740f0dfdae19fba11e7bcfb795de664aa846668bb4f559cee",
-  "archiveURL": "https://github.com/cattownfilms/the-nightmare-next-door-play/releases/download/v0.18-character-intros-public-1/site-public.tar.gz"
+  "sourceCommit": "8dca059ba5e26b0a364b43eb220f111b96417066",
+  "sourceBuildSHA256": "f95c115cecca126b164610b58c258ceb0fbabccf571d7ecb43acb14f1e606323",
+  "publicIndexSHA256": "fac37f0f91d8a53c74057d172400d66cb668b826aaf8520d703572ba38080e36",
+  "archiveSHA256": "3e5f0995a1f512e52481b9edf02863ab27f91eb59c1dc08af27943aa8a4b3b78",
+  "archiveURL": "https://github.com/cattownfilms/the-nightmare-next-door-play/releases/download/v0.18-intro-difficulty-public-20261028-1/site-public.tar.gz"
 }
