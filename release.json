@@ -1,8 +1,8 @@
 {
   "version": "0.18.0-dev",
-  "sourceCommit": "7e726b2c522fe5502c37510167182c86cd76a4dc",
-  "sourceBuildSHA256": "587749471584c4aef178be7782acef6a6639806621b8289c4b18ed6a480626a6",
-  "publicIndexSHA256": "7c2307f6fbc2f64e6e69dd160dbad6e72415c164edd8d01d3cf90066667363aa",
-  "archiveSHA256": "3cd8ff12b130a59312597923553cb6fe8ce5cd8418bbf3f9d44e9458e486edc1",
-  "archiveURL": "https://github.com/cattownfilms/the-nightmare-next-door-play/releases/download/v0.18-equipment-completion-1/site-public.tar.gz"
+  "sourceCommit": "3e164d9a6e2563bc17909e53b7dae5899f8a9eab",
+  "sourceBuildSHA256": "95bd13783a6a2f37318f0810dc6f5d8372283801c7999cbf2619e59a450706aa",
+  "publicIndexSHA256": "142f53e572b5f4f12d5caf189346c8b5ecb921ecdba1042b5ba2cc11dd36215b",
+  "archiveSHA256": "efe1b1298ba1a93cbda7bd243205348e814e2d99d212b58b9fa1bee6c95b6417",
+  "archiveURL": "https://github.com/cattownfilms/the-nightmare-next-door-play/releases/download/v0.18-living-exit-1/site-public.tar.gz"
 }
