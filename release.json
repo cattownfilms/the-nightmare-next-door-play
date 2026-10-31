@@ -1,8 +1,8 @@
 {
   "version": "0.18.0-dev",
-  "sourceCommit": "3e164d9a6e2563bc17909e53b7dae5899f8a9eab",
-  "sourceBuildSHA256": "95bd13783a6a2f37318f0810dc6f5d8372283801c7999cbf2619e59a450706aa",
-  "publicIndexSHA256": "142f53e572b5f4f12d5caf189346c8b5ecb921ecdba1042b5ba2cc11dd36215b",
-  "archiveSHA256": "efe1b1298ba1a93cbda7bd243205348e814e2d99d212b58b9fa1bee6c95b6417",
-  "archiveURL": "https://github.com/cattownfilms/the-nightmare-next-door-play/releases/download/v0.18-living-exit-1/site-public.tar.gz"
+  "sourceCommit": "062b4280625f0d3839d8f178c6afecbe92bb320d",
+  "sourceBuildSHA256": "4d7b5fa6a164b33bae9fed50849c129dc4a1b124cbdc19b3f051690e2dd40020",
+  "publicIndexSHA256": "93afb541d9b025a2ac1650855c90ee8dc739dd292440f91fef7d1ba6ac480775",
+  "archiveSHA256": "d8ec83dafeed930e9ce06e494923d8bb85425fa8a47fe7c4ecba3595dfe85d41",
+  "archiveURL": "https://github.com/cattownfilms/the-nightmare-next-door-play/releases/download/v0.18-campaign-door-intros-1/site-public.tar.gz"
 }
