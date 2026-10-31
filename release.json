@@ -1,8 +1,8 @@
 {
   "version": "0.18.0-dev",
-  "sourceCommit": "9167123135a7aaefffc2df5330333fda5fe55752",
-  "sourceBuildSHA256": "28a5ff7976eb4389e4e29c85ea57e45fda4eed2c5915aa90d958a5efb228f92f",
-  "publicIndexSHA256": "0587cf93bede7236647b22876dd782074e716571b89748122eaf7485711b1923",
-  "archiveSHA256": "0d4d009f7785de905e038c774286841e8f7d3eb72744511157759ab9b613d52c",
-  "archiveURL": "https://github.com/cattownfilms/the-nightmare-next-door-play/releases/download/v0.18-presentation-review-1/site-public.tar.gz"
+  "sourceCommit": "7e726b2c522fe5502c37510167182c86cd76a4dc",
+  "sourceBuildSHA256": "587749471584c4aef178be7782acef6a6639806621b8289c4b18ed6a480626a6",
+  "publicIndexSHA256": "7c2307f6fbc2f64e6e69dd160dbad6e72415c164edd8d01d3cf90066667363aa",
+  "archiveSHA256": "3cd8ff12b130a59312597923553cb6fe8ce5cd8418bbf3f9d44e9458e486edc1",
+  "archiveURL": "https://github.com/cattownfilms/the-nightmare-next-door-play/releases/download/v0.18-equipment-completion-1/site-public.tar.gz"
 }
