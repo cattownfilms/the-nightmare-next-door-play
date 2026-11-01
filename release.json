@@ -1,8 +1,8 @@
 {
   "version": "0.18.0-dev",
-  "sourceCommit": "14b0f33d14d7ed01d2f98ce6626e34a51c9f8048",
-  "sourceBuildSHA256": "fe274f9ff3a6d9de11c3922ec33c366b07e0412b9c67e77941166b13082ec8da",
-  "publicIndexSHA256": "801611a1b80a7163ce4f4e607c8d6bf1d168f195330241c9d6dccc4fd6bca805",
-  "archiveSHA256": "cc64a55afc4cfb41b14b4b88141c6f24917c76d56a1ac1632457f7a74e620f18",
-  "archiveURL": "https://github.com/cattownfilms/the-nightmare-next-door-play/releases/download/v0.18-campaign20-bosses-1/site-public.tar.gz"
+  "sourceCommit": "467d27eb426cda40102e0bd72296bdd98c9de585",
+  "sourceBuildSHA256": "463171fae76ace363d84133a9c3e574b6de9becefe049a5b0231d64f51132833",
+  "publicIndexSHA256": "7766a34bd2c18ffed7b751d9a0cdee9f64883f7d8f8095269a88bd7beb3888e1",
+  "archiveSHA256": "5356f1a256698a3088382a75512fca36c76e7fa1cc556e3237c88218df5329a7",
+  "archiveURL": "https://github.com/cattownfilms/the-nightmare-next-door-play/releases/download/v0.18-exit-skitter-1/site-public.tar.gz"
 }
