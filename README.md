@@ -2,7 +2,13 @@
 
 [Play the game](https://cattownfilms.github.io/the-nightmare-next-door-play/)
 
-## v0.20.0-boss-cards-1
+## v0.20.1-menu-cards-1
+
+The main menu is Continue, New Game, Options and Extras. Options directly exposes Boss Practice, Level Select, settings and save import/export. Extras contains Title Studio and Sprite Workshop. Practice uses existing encounters without changing campaign saves or permanent rewards. Level Select retains the supported level-one start; Continue restores later saved stages.
+
+Cards now share authored red/green line or word palettes between gameplay and Studio, with black taglines on yellow. Saved custom cards remain intact. New default level one reads The Nightmare Begins!!! / There Goes the Neighborhood. The twenty-chapter presets remain editable previews, not a campaign-order migration. Phone portrait/landscape layout, fresh skip, reduced motion and focused validation are included.
+
+### Previously shipped boss mechanics retained
 
 This release adds the implemented boss foundation/signature mechanics and illustrated level introductions. Combat uses readable tells, committed strikes and recovery windows. Introductions use the approved illustrated backgrounds, glyph lettering, a separate yellow tagline streak, character credit, fresh-input skip and reduced-motion presentation.
 
@@ -32,4 +38,4 @@ No Phase Three echoes, mastery remixes, BogBird expansion, sharks or chapter-ord
 
 ## Distribution
 
-This repository hosts only the audited public runtime release and its pinned Pages deployment workflow. Source development remains private. `release.json` pins the source commit, archive and index hashes; deployment verifies the archive before publishing. The preceding rollback release is `v0.18-exit-skitter-1` (public commit `39a45be0761ca18ae19aa0edf484896a7c9695a0`).
+This repository hosts only the audited public runtime release and its pinned Pages deployment workflow. Source development remains private. `release.json` pins the source commit, archive and index hashes; deployment verifies the archive before publishing. The preceding rollback release is `v0.20.0-boss-cards-1` (public commit `098f122f840ab37d9cd6b70a7c1501ee5f720cff`).

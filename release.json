@@ -1,8 +1,8 @@
 {
-  "version": "0.20.0-boss-cards-1",
-  "sourceCommit": "19e20942d39c39bc5401187dcca504284a3694b4",
-  "sourceBuildSHA256": "27e6e9f4ea6d1f40ebde93762c647cece0c49a50f1dae192a8a8d222c140dcce",
-  "publicIndexSHA256": "904b3fab6bea25d2656b9631a40398345fb7250acf3c35b8818e2f88d0be4ca2",
-  "archiveSHA256": "ed11d79d738e2e2475861cf7b59be7e621a33f3763096ef18161ef383c4beb86",
-  "archiveURL": "https://github.com/cattownfilms/the-nightmare-next-door-play/releases/download/v0.20.0-boss-cards-1/site-public.tar.gz"
+  "version": "0.20.1-menu-cards-1",
+  "sourceCommit": "60c64a6bf5d5f991e01e5cffb7a241efe89172be",
+  "sourceBuildSHA256": "62f0ea0fb865e79d9f513a7ed9f917b2fc13f47aad886d2e9c1330df28b71718",
+  "publicIndexSHA256": "1b6e19bcf3aee41b34db8c3be217f7b52614c39c28f8c8956a6aa65bc021de91",
+  "archiveSHA256": "74a7c20bda88586859ab58b59d0f1a78c0e5533a636ea0c40afc8bc07629e921",
+  "archiveURL": "https://github.com/cattownfilms/the-nightmare-next-door-play/releases/download/v0.20.1-menu-cards-1/site-public.tar.gz"
 }
