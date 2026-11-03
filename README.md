@@ -2,40 +2,41 @@
 
 [Play the game](https://cattownfilms.github.io/the-nightmare-next-door-play/)
 
-## v0.20.1-menu-cards-1
+## v0.21.0-itinerary-1
 
-The main menu is Continue, New Game, Options and Extras. Options directly exposes Boss Practice, Level Select, settings and save import/export. Extras contains Title Studio and Sprite Workshop. Practice uses existing encounters without changing campaign saves or permanent rewards. Level Select retains the supported level-one start; Continue restores later saved stages.
+New campaigns activate the twenty approved chapters, their actual biomes and the ten distinct required encounters. Hockey moves to level7; level8 has no required boss. Wolf debuts at5 as a heavy. Cheerleaderpede remains last at20; legitimate victory offers End Run or Continue Endless at21.
 
-Cards now share authored red/green line or word palettes between gameplay and Studio, with black taglines on yellow. Saved custom cards remain intact. New default level one reads The Nightmare Begins!!! / There Goes the Neighborhood. The twenty-chapter presets remain editable previews, not a campaign-order migration. Phone portrait/landscape layout, fresh skip, reduced motion and focused validation are included.
+| Level | Title | Biome / profile | Required boss |
+|---|---|---|---|
+| 01 | The Nightmare Begins!!! | neighborhood / neighborhood | — |
+| 02 | So I Manage an Axe Murderer | mall / retail | night-manager |
+| 03 | The Hedges Have Eyes | yards / garden | — |
+| 04 | Lawn and Disorder | yards / hedge | lawn-enforcement |
+| 05 | Full Moon on Maple St | neighborhood / neighborhood | — |
+| 06 | American Scream | neighborhood / courtyard | ghost-mask |
+| 07 | Thursday the 12th | yards / lake | hockey-mask |
+| 08 | CHOPPING Mall | mall / retail | — |
+| 09 | Night Swim, No Lifeguard | yards / pools | — |
+| 10 | Bad Neighbor on Elm St | neighborhood / street | striped-sweater |
+| 11 | The Food Court of the Damned | mall / food-court | — |
+| 12 | Something in the Leftovers | mall / loading | biomechanical-alien |
+| 13 | Pet Sematary Sale | yards / burial-yard | — |
+| 14 | To Catch a Predator | yards / hunting-ground | armored-hunter |
+| 15 | Child's Play, No Refunds | mall / arcade | — |
+| 16 | IT FLOATS | mall / atrium | balloon-clown |
+| 17 | The Park and the Wicked | neighborhood / park | — |
+| 18 | Little Shop of Horrors | mall / overgrown-mall | flower-headed-creature |
+| 19 | Lawn of the Dead | yards / garden | — |
+| 20 | Three Cheers for the Apocalypse | neighborhood / school | cheerleaderpede |
 
-### Previously shipped boss mechanics retained
+Boss domains use retail shelving/stockroom lanes, hedge clearings, courtyards, real lake shore, street court, hardware loading bay, hunting ground, mall atrium, planted mall garden center, and the finale school gym. Only the new Cheerleaderpede domain uses gym court terrain. Existing attacks, counters, doorway activation, reveal, compass and living exit remain. Generated layouts keep connected escape lanes and a bounded same-profile fallback.
 
-This release adds the implemented boss foundation/signature mechanics and illustrated level introductions. Combat uses readable tells, committed strikes and recovery windows. Introductions use the approved illustrated backgrounds, glyph lettering, a separate yellow tagline streak, character credit, fresh-input skip and reduced-motion presentation.
+Main menu: Continue, New Game, Options, Extras. Options directly contains Level Select and Boss Practice. The twenty-stage replay picker unlocks from validated cleared-stage and required-defeat receipts, protects campaign saves/inventory/rewards, and returns safely. Level1 is initially available. Legacy saves without reliable clear receipts do not fabricate unlocks from a high level number. Title Studio remains in Extras; chapter edits and red/green presentation share the gameplay renderer.
 
-Current saved campaigns retain their versioned level order: ten required bosses through the level-20 finale, with endless beginning at 21. Hockey Mask remains at level 8 in the active mapping. The new twenty-chapter title plan is available in Title Studio; it does not silently move bosses or rename incompatible stages in existing runs. Actual gameplay cards use the current level's compatible copy and biome.
+Compatibility exception: existing runs retain their old schedule AND deterministic arena generator, including old level8 Hockey and legacy gym domains; no loaded map is rebuilt. New itinerary runs and Boss Practice use the new profiles. Nine-level saves retain their completion contract. Explicit custom cards remain; new-run automatic chapter defaults use the approved manifest. No data clearing or save-origin change.
 
-| Encounter | Included behavior |
-|---|---|
-| hockey-mask | Shared-controller water breach/short landing, checked retreat and dry exit, surface ripples/splash, marked-neighbor hunt, ordinary-shot/freeze/body-block interrupt, phase-entry and per-hunt heal caps, invalidation/timeout/save cleanup; intact 0289 v2 body with reused retreat pose. |
-| night-manager | Warned short shutter with checked escape perimeter, pursuit and removal on recovery/death/load. |
-| lawn-enforcement | Directional delayed sweep lanes and a scoped supported hedge shortcut. |
-| ghost-mask | Readable edge approach and false silhouettes, true directional tell, committed rush and punishable recovery. |
-| striped-sweater | Pursuit rake and distinct delayed claw-mark lanes. |
-| biomechanical-alien | Skitter/tail pressure, collision-checked reposition and vulnerable recovery. |
-| armored-hunter | Locatable shimmer, acquisition then locked laser shot, renewable hit/touch disruption, bounded cloak and centrally tuned 20-second visible combat window. |
-| balloon-clown | Bounded ascent/casting, reachable anchor or ordinary-hit descent counter, grounded punish and warned return. |
-| flower-headed-creature | Closed defense with approach/hit opening counter, petal sectors and exposed bloom; scoped green arena dressing. |
-| cheerleaderpede | Committed charge, visible burrow trace/emergence and recovery; no echoes. |
-| wolf-creature | Howl/pounce commitment with punishable misses. |
-| large-mutant | Bounded momentum charge and supported wall-impact stagger. |
-| tricycle-puppet | Readable driving line and stopped knockdown punish, rendered with an existing intact final death-art pose while logically alive. No newly authored dismount/on-foot animation. |
-| root-rot | Existing optional gardener miniboss gets seed/root-line pressure and exposed collapse using existing poses; no required-boss promotion. |
-| BogBird | Deferred proposed optional apex; no registry entry or unlock invented. |
+Level9 has real navigable pools, not the deferred circling/chomping shark enemy. No Phase Three, BogBird expansion, new attacks, raw reference videos, private Level Lab or tileset experiments are included. Physical Android/controller acceptance and sustained phone performance are unmeasured.
 
-Existing character cinematics, Level Complete/Game Over artwork, weapons, shops, music and the skittering exit remain. The optional Root Rot stays a miniboss; Wolf, Mutant and Tricycle stay heavies. Tricycle knockdown and water retreat reuse existing art; no newly authored dismount or retreat animation is claimed.
+## Distribution and rollback
 
-No Phase Three echoes, mastery remixes, BogBird expansion, sharks or chapter-order migration are included. Native and emulated-browser checks do not establish physical-controller compatibility or sustained phone performance.
-
-## Distribution
-
-This repository hosts only the audited public runtime release and its pinned Pages deployment workflow. Source development remains private. `release.json` pins the source commit, archive and index hashes; deployment verifies the archive before publishing. The preceding rollback release is `v0.20.0-boss-cards-1` (public commit `098f122f840ab37d9cd6b70a7c1501ee5f720cff`).
+This repository hosts the pinned public runtime and verified Pages workflow. `release.json` pins exact source, archive and index hashes. Rollback: `v0.20.1-menu-cards-1`, public `8ad4a982ae790e680003cff185caaa5538281bca`. Source development remains private.

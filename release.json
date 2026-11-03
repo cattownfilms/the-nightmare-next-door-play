@@ -1,8 +1,8 @@
 {
-  "version": "0.20.1-menu-cards-1",
-  "sourceCommit": "60c64a6bf5d5f991e01e5cffb7a241efe89172be",
-  "sourceBuildSHA256": "62f0ea0fb865e79d9f513a7ed9f917b2fc13f47aad886d2e9c1330df28b71718",
-  "publicIndexSHA256": "1b6e19bcf3aee41b34db8c3be217f7b52614c39c28f8c8956a6aa65bc021de91",
-  "archiveSHA256": "74a7c20bda88586859ab58b59d0f1a78c0e5533a636ea0c40afc8bc07629e921",
-  "archiveURL": "https://github.com/cattownfilms/the-nightmare-next-door-play/releases/download/v0.20.1-menu-cards-1/site-public.tar.gz"
+  "version": "0.21.0-itinerary-1",
+  "sourceCommit": "8d8a9e2ed84959d6faa124c18b082dd03b105966",
+  "sourceBuildSHA256": "948752ea9f871dfeccb6bdf5254a056d6b4c606ff5d84934adbbb6375107bd85",
+  "publicIndexSHA256": "56765a88fc85b9f6411d44cbcc6ed342a15e0ea3afada33a2477d8792e5e0b3e",
+  "archiveSHA256": "89a54df2c29f15617257c1fedd3bd55e1a440f507a205c062d842e76404b6343",
+  "archiveURL": "https://github.com/cattownfilms/the-nightmare-next-door-play/releases/download/v0.21.0-itinerary-1/site-public.tar.gz"
 }
