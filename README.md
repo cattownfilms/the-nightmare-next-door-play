@@ -2,13 +2,19 @@
 
 [Play the game](https://cattownfilms.github.io/the-nightmare-next-door-play/)
 
-## v0.21.0-itinerary-1
+## v0.21.1-o11-1
+
+O11 playtest corrections: drippy campaign titles above yellow tagline streaks with thin white lettering outlines; stable player camera during living-exit pursuit; persistent SHOOT THE EXIT DOOR / ENTER THE EXIT guidance; immediate four-sided boss-domain activation and obstacle-aware connected-area pursuit; Hockey Mask shoreline routing and existing water signatures retained. Reveal/portal/results transitions and collected-coin accounting are corrected without changing campaign order or difficulty balance.
+
+Level 1 is **There Goes the Neighborhood**, with **The Nightmare Begins!!!** on the yellow streak. Existing saves and explicit Title Studio edits remain intact. Focused engine checks and Chromium portrait/landscape checks passed; physical-phone acceptance remains manual.
+
+### Preserved campaign
 
 New campaigns activate the twenty approved chapters, their actual biomes and the ten distinct required encounters. Hockey moves to level7; level8 has no required boss. Wolf debuts at5 as a heavy. Cheerleaderpede remains last at20; legitimate victory offers End Run or Continue Endless at21.
 
 | Level | Title | Biome / profile | Required boss |
 |---|---|---|---|
-| 01 | The Nightmare Begins!!! | neighborhood / neighborhood | — |
+| 01 | There Goes the Neighborhood | neighborhood / neighborhood | — |
 | 02 | So I Manage an Axe Murderer | mall / retail | night-manager |
 | 03 | The Hedges Have Eyes | yards / garden | — |
 | 04 | Lawn and Disorder | yards / hedge | lawn-enforcement |
@@ -39,4 +45,4 @@ Level9 has real navigable pools, not the deferred circling/chomping shark enemy.
 
 ## Distribution and rollback
 
-This repository hosts the pinned public runtime and verified Pages workflow. `release.json` pins exact source, archive and index hashes. Rollback: `v0.20.1-menu-cards-1`, public `8ad4a982ae790e680003cff185caaa5538281bca`. Source development remains private.
+This repository hosts the pinned public runtime and verified Pages workflow. `release.json` pins exact source, archive and index hashes. Rollback: `v0.21.0-itinerary-1`, public `c1d1fcf629a350bb27eb78c82ee1df1a85149cf4`. Source development remains private.
