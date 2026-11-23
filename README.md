@@ -2,7 +2,11 @@
 
 [Play the game](https://cattownfilms.github.io/the-nightmare-next-door-play/)
 
-## v0.21.1-o11-1
+## v0.21.1-boss-art-1
+
+Art-only cleanup of nine boss sheets: detached extra weapons, claws and debris removed from Hockey Mask, Striped Sweater, Ghost Mask, Alien, Hunter, Clown, Flower and Wolf. Intentional weapons, balloons, limbs and effects remain. Gameplay, frame timing, pivots and saves are unchanged. All 23 affected animation sequences and eight Practice renders checked; unresolved fused or clipped source art remains unchanged.
+
+### Preserved O11 corrections
 
 O11 playtest corrections: drippy campaign titles above yellow tagline streaks with thin white lettering outlines; stable player camera during living-exit pursuit; persistent SHOOT THE EXIT DOOR / ENTER THE EXIT guidance; immediate four-sided boss-domain activation and obstacle-aware connected-area pursuit; Hockey Mask shoreline routing and existing water signatures retained. Reveal/portal/results transitions and collected-coin accounting are corrected without changing campaign order or difficulty balance.
 
@@ -45,4 +49,4 @@ Level9 has real navigable pools, not the deferred circling/chomping shark enemy.
 
 ## Distribution and rollback
 
-This repository hosts the pinned public runtime and verified Pages workflow. `release.json` pins exact source, archive and index hashes. Rollback: `v0.21.0-itinerary-1`, public `c1d1fcf629a350bb27eb78c82ee1df1a85149cf4`. Source development remains private.
+This repository hosts the pinned public runtime and verified Pages workflow. `release.json` pins exact source, archive and index hashes. Rollback: `v0.21.1-o11-1`, public `c9f33aa945fb94b63433ed56e094728d06eec08f`. Source development remains private.
