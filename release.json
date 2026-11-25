@@ -1,8 +1,8 @@
 {
-  "version": "0.21.5-boss-art-1",
-  "sourceCommit": "865657a2ff688b023c8716f2225f593f7acc3bad",
-  "sourceBuildSHA256": "8eb773ed7c1869784e5eccea98076ed77c64cc7448fd2ab71ca57ea8aa50be59",
-  "publicIndexSHA256": "45446d9fb2257380d646d0727d2fee0fbbb9548abbeb65d1ab333027f90de823",
-  "archiveSHA256": "7195928c1c64d1c0b087004876bc5356c03b01ad6caf41389184e238f973f93c",
-  "archiveURL": "https://github.com/cattownfilms/the-nightmare-next-door-play/releases/download/v0.21.5-boss-art-1/site-public.tar.gz"
+  "version": "0.21.5-boss-art-2",
+  "sourceCommit": "5c5e7d1837110cb60387946e9b71382551511ab8",
+  "sourceBuildSHA256": "6ffa01f2c675325d9828594a531d6fe8aa0386867ff7c9f5af32f59205c594ce",
+  "publicIndexSHA256": "0babba44083047fa58c8068868a3a0ec4299be4ea704c2533696d514f20a7311",
+  "archiveSHA256": "921521b0902106c47e045ae42947829afdd30703f7ff8dce311d9b02eaafa50d",
+  "archiveURL": "https://github.com/cattownfilms/the-nightmare-next-door-play/releases/download/v0.21.5-boss-art-2/site-public.tar.gz"
 }
