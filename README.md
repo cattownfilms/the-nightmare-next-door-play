@@ -2,6 +2,14 @@
 
 [Play the game](https://cattownfilms.github.io/the-nightmare-next-door-play/)
 
+## v0.21.8-o11-20 — performance and recovery fixes
+
+Bounded Alien authored-sheet loading, fewer repeated Wolf route searches, denser Cheerleaderpede spin with unchanged duration, and clearer attack tells and Practice controls. Includes O11-19 acid fade, Cheer rise, results presentation, and Bex throw recovery when movement stops. Existing unfinished Bex/Alien art replacements are not included.
+
+Published from the exact staged candidate `o11-20-2b8955f7`, without rebuilding. User-confirmed Android acceptance covers cold Alien entry/first dodge, Cheer rise/spin/recovery, Bex moving fire/throw recovery, and save/reload/Continue. The pinned archive passed the existing Pages validator and focused packaged checks.
+
+Rollback: `v0.21.8-o11-18-public-1`, Pages commit `4708966a9aca39665c4f078c8cc0b0057873784b`. Only the sanitized public archive is distributed; private source, reports, saves and unfinished artwork remain excluded.
+
 ## v0.21.8-o11-18 — completed O11 art and gameplay corrections
 
 Publishes the reviewed native-detail hero and boss art, boss attack indicators and recovery cues, Bex directional equipment/throw corrections, Alien and Hunter action repairs, Clown balloon/string art, and the completed results, rescue, Practice and first-aid fixes. This is the tested 0.21.8-o11-18 candidate, not a repackaging of 0.21.7.

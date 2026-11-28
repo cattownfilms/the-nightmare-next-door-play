@@ -1,8 +1,8 @@
 {
-  "version": "0.21.8-o11-18",
-  "sourceCommit": "2001c6143b42e0a6c4d2d73d88a174b1b8c7ee7d",
-  "sourceBuildSHA256": "d35dbd138cb9c54bd8df46c1bee2ab96e4911411e0a07bed14bf58deecbe3d7f",
-  "publicIndexSHA256": "5ddb7a6b23112e5b3f789a750dd97bdb4e12809aa0a981ff81aff1a3724f5e6e",
-  "archiveSHA256": "2d586cb569aba2939e3c561142b87481e6cced17dfb0725b94596e3434507073",
-  "archiveURL": "https://github.com/cattownfilms/the-nightmare-next-door-play/releases/download/v0.21.8-o11-18-public-1/site-public.tar.gz"
+  "version": "0.21.8-o11-20",
+  "sourceCommit": "f3e6697e8733e7868b7ab3c0b4f7491240ac2b38",
+  "sourceBuildSHA256": "acb56ef4e5f40cbfb6f5a2ea6d3fc118d5fa06656cdc1feb0ab8e83e80ac5682",
+  "publicIndexSHA256": "2b8955f7018a8cb8c889897f50e626eea0a589c169c38206cced220b90e5fc61",
+  "archiveSHA256": "baab35cb11698bdbd135f3f6263b38cf2ab4b66912d1176d1d2d1c0e68550c3c",
+  "archiveURL": "https://github.com/cattownfilms/the-nightmare-next-door-play/releases/download/v0.21.8-o11-20-public-1/site-public.tar.gz"
 }
