@@ -2,6 +2,22 @@
 
 [Play the game](https://cattownfilms.github.io/the-nightmare-next-door-play/)
 
+## v0.21.8-o11-18 — completed O11 art and gameplay corrections
+
+Publishes the reviewed native-detail hero and boss art, boss attack indicators and recovery cues, Bex directional equipment/throw corrections, Alien and Hunter action repairs, Clown balloon/string art, and the completed results, rescue, Practice and first-aid fixes. This is the tested 0.21.8-o11-18 candidate, not a repackaging of 0.21.7.
+
+37 of 39 reviewed art rows are resolved, plus three prior Bex corrections. Two native east-facing replacements remain unavailable: Hockey Mask `heavy_chop_chain_east` and Striped Sweater `claw_flurry_east`. Their existing animations remain; this release does not claim those replacements are finished.
+
+Source: `2001c6143b42e0a6c4d2d73d88a174b1b8c7ee7d` (private repository). The public package removes source/review provenance and the development animation-audit interface. Native runtime art, frame timing, registration, and accepted gameplay are retained. No private generator, Level Lab or tileset experiment is included.
+
+Validation: retained isolated-browser gameplay/art acceptance; additional public-package startup, exact selected-asset hashes and deployment checks. Physical-phone acceptance and sustained device performance remain manual.
+
+Rollback: release `v0.21.7-boss-art-1`, public commit `8a341b0fa7f7b1a78bb429b756fe85a94a10a9a3`. Updates use the existing pinned release archive and Pages Actions workflow; generated HTML and source history are not committed here.
+
+### Runtime asset notice
+
+The runtime still includes legacy game-derived environment, actor/item artwork and audio effects alongside the supplied original music and newer character/boss artwork. Their inclusion is not a claim of rights clearance. Required runtime assets have not been silently deleted. Raw recordings, ROM files, private reports, saves and credentials are excluded.
+
 ## v0.21.1-boss-art-1
 
 Art-only cleanup of nine boss sheets: detached extra weapons, claws and debris removed from Hockey Mask, Striped Sweater, Ghost Mask, Alien, Hunter, Clown, Flower and Wolf. Intentional weapons, balloons, limbs and effects remain. Gameplay, frame timing, pivots and saves are unchanged. All 23 affected animation sequences and eight Practice renders checked; unresolved fused or clipped source art remains unchanged.
